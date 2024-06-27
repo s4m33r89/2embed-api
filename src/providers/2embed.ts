@@ -7,7 +7,7 @@ import { rabbitstreamExtract } from "../extractors/rabbitstream";
 
 
 export class TwoEmbed {
-    static url = "https://www.2embed.to";
+    static url = "https://www.2embed.cc";
 
     static isSrc_available(embed_page: string) {
         if(embed_page !== null){
